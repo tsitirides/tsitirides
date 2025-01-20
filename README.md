@@ -15,7 +15,8 @@
 
 📫 Let's Connect:
 
-    LinkedIn: [LinkedIn](https://www.linkedin.com/in/brayden-tsitirides/)
-    Personal Website/Blog: [Website](tsitirides.github.io)
+    LinkedIn: Brayden Tsitirides
+    Personal Website/Blog: Website
+
 
 I am always open to collaborating on exciting projects and exploring new opportunities. Feel free to reach out if you'd like to discuss potential collaborations or just have a tech chat!
